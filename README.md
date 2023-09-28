@@ -1,7 +1,7 @@
 [![MasterHead](https://webitexperts.com/images/banner1_1.gif)]
 <h1 align="center">Hi 👋, I'm Fabulous</h1>
 <h3 align="center">A passionate Next.js/React Developer from Africa</h3>
-<img align="right" alt="Coding" width="400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&usqp=CAU"/>
+<img align="right" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&usqp=CAU"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabulousonchwati9578" alt="fabulousonchwati9578" /></a> </p>
 
